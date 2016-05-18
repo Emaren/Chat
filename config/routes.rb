@@ -1,6 +1,11 @@
 Rails.application.routes.draw do
   root 'rooms#show'
 
+  
+
+
+
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
